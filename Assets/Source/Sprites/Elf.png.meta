@@ -1,0 +1,549 @@
+fileFormatVersion: 2
+guid: b6e6937a1a53d481fa26acd928518058
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: elf - Celebration_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 410
+        width: 71
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c0fa339b6e64e2d9cbe952d813a7e0
+      internalID: -1431018531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf - Celebration_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 410
+        width: 88
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2934bf01aa24219a658df6a2f65219
+      internalID: 2081290407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf - Celebration_3
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 410
+        width: 71
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2406f2dce1b81414ca43b386d2438a23
+      internalID: -687912747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf - Celebration_4
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 410
+        width: 71
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630ce04b59a7f4a8d90e43d8d36fe698
+      internalID: 1902620343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf - Celebration_5
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 410
+        width: 76
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43849576df0ef43daba8d5161d9db824
+      internalID: 2015234530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf - Celebration_6
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 410
+        width: 82
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a397122add284047b31a59c2e3040c0
+      internalID: 1344364783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf - Celebration_7
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 410
+        width: 72
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd64582488714f1bb17beb4aabd4d75
+      internalID: 612402971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf - Attack_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 232
+        width: 67
+        height: 136
+      alignment: 9
+      pivot: {x: 0.4635178, y: 0.5179728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f082cd93fbce54c32a05ae0878e6b784
+      internalID: -1683702511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf - Attack_2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 233
+        width: 94
+        height: 136
+      alignment: 9
+      pivot: {x: 0.20653388, y: 0.5102703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f361ef131ff44e5b297924c0ea509a
+      internalID: -1629524413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf - Attack_3
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 233
+        width: 86
+        height: 136
+      alignment: 9
+      pivot: {x: 0.36600938, y: 0.5102703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4126c711bc6da4cb08db903ae0d96c1d
+      internalID: -15110871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf - Attack_4
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 233
+        width: 83
+        height: 136
+      alignment: 9
+      pivot: {x: 0.3734241, y: 0.5099678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ff3acd235c94be5a83b1fbf49aefff
+      internalID: -354687201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf - Walk_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 69
+        height: 122
+      alignment: 9
+      pivot: {x: 0.45341402, y: 0.53293496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632b21024ad9a4c36a678e869374cb10
+      internalID: 829146973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf - Walk_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 96
+        width: 69
+        height: 122
+      alignment: 9
+      pivot: {x: 0.4708838, y: 0.54610896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6765ba22c804d4e8a979d08e80b727
+      internalID: -1271631528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf - Walk_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 93
+        width: 72
+        height: 124
+      alignment: 9
+      pivot: {x: 0.44419396, y: 0.54212487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09daf1ea902634e389a4c373a62b17f6
+      internalID: -2023099629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf - Walk_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 93
+        width: 70
+        height: 125
+      alignment: 9
+      pivot: {x: 0.45981967, y: 0.5482168}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f3b4d6d69de404ba7f70dfff278756
+      internalID: -667647630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf - Walk_5
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 93
+        width: 70
+        height: 125
+      alignment: 9
+      pivot: {x: 0.4483394, y: 0.55786014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c7de5f58e6b4e47a3561efcc869d57
+      internalID: -925372272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf - Walk_6
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 93
+        width: 71
+        height: 124
+      alignment: 9
+      pivot: {x: 0.4660447, y: 0.53240377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821a62c06dcb949f1aa59c1473ff0403
+      internalID: 2064897036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      elf - Attack_1: -1683702511
+      elf - Attack_2: -1629524413
+      elf - Attack_3: -15110871
+      elf - Attack_4: -354687201
+      elf - Celebration_1: -1431018531
+      elf - Celebration_2: 2081290407
+      elf - Celebration_3: -687912747
+      elf - Celebration_4: 1902620343
+      elf - Celebration_5: 2015234530
+      elf - Celebration_6: 1344364783
+      elf - Celebration_7: 612402971
+      elf - Walk_1: 829146973
+      elf - Walk_2: -1271631528
+      elf - Walk_3: -2023099629
+      elf - Walk_4: -667647630
+      elf - Walk_5: -925372272
+      elf - Walk_6: 2064897036
+      png-transparent-sprite-elf-sprite-legendary-creature-search-engine-optimization-team-PhotoRoom.png-PhotoRoom_10: 1016852179
+      png-transparent-sprite-elf-sprite-legendary-creature-search-engine-optimization-team-PhotoRoom.png-PhotoRoom_11: 1083112858
+      png-transparent-sprite-elf-sprite-legendary-creature-search-engine-optimization-team-PhotoRoom.png-PhotoRoom_12: -1344374701
+      png-transparent-sprite-elf-sprite-legendary-creature-search-engine-optimization-team-PhotoRoom.png-PhotoRoom_17: 1730773671
+      png-transparent-sprite-elf-sprite-legendary-creature-search-engine-optimization-team-PhotoRoom.png-PhotoRoom_18: -436203644
+      png-transparent-sprite-elf-sprite-legendary-creature-search-engine-optimization-team-PhotoRoom.png-PhotoRoom_19: 1774890434
+      png-transparent-sprite-elf-sprite-legendary-creature-search-engine-optimization-team-PhotoRoom.png-PhotoRoom_2: -1700482810
+      png-transparent-sprite-elf-sprite-legendary-creature-search-engine-optimization-team-PhotoRoom.png-PhotoRoom_20: -1534140601
+      png-transparent-sprite-elf-sprite-legendary-creature-search-engine-optimization-team-PhotoRoom.png-PhotoRoom_21: -2005760027
+      png-transparent-sprite-elf-sprite-legendary-creature-search-engine-optimization-team-PhotoRoom.png-PhotoRoom_22: 2113709145
+      png-transparent-sprite-elf-sprite-legendary-creature-search-engine-optimization-team-PhotoRoom.png-PhotoRoom_24: -1351565524
+      png-transparent-sprite-elf-sprite-legendary-creature-search-engine-optimization-team-PhotoRoom.png-PhotoRoom_30: 1109611047
+      png-transparent-sprite-elf-sprite-legendary-creature-search-engine-optimization-team-PhotoRoom.png-PhotoRoom_31: -136383862
+      png-transparent-sprite-elf-sprite-legendary-creature-search-engine-optimization-team-PhotoRoom.png-PhotoRoom_32: 124157554
+      png-transparent-sprite-elf-sprite-legendary-creature-search-engine-optimization-team-PhotoRoom.png-PhotoRoom_33: 169662875
+      png-transparent-sprite-elf-sprite-legendary-creature-search-engine-optimization-team-PhotoRoom.png-PhotoRoom_34: 1958465586
+      png-transparent-sprite-elf-sprite-legendary-creature-search-engine-optimization-team-PhotoRoom.png-PhotoRoom_35: 1867330360
+      png-transparent-sprite-elf-sprite-legendary-creature-search-engine-optimization-team-PhotoRoom.png-PhotoRoom_36: -111563013
+      png-transparent-sprite-elf-sprite-legendary-creature-search-engine-optimization-team-PhotoRoom.png-PhotoRoom_37: 80752124
+      png-transparent-sprite-elf-sprite-legendary-creature-search-engine-optimization-team-PhotoRoom.png-PhotoRoom_38: -1197987049
+      png-transparent-sprite-elf-sprite-legendary-creature-search-engine-optimization-team-PhotoRoom.png-PhotoRoom_8: -311650832
+      png-transparent-sprite-elf-sprite-legendary-creature-search-engine-optimization-team-PhotoRoom.png-PhotoRoom_9: -933842361
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
