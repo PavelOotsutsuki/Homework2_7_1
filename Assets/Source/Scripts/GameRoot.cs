@@ -5,6 +5,7 @@ using UnityEngine;
 public class GameRoot : MonoBehaviour
 {
     [SerializeField] private Player _player;
+    [SerializeField] private Restart restartButton;
 
     private Bar[] _bars;
 
@@ -12,6 +13,8 @@ public class GameRoot : MonoBehaviour
     {
         _player.Init();
         InitBars();
+
+        _player.Dying += OnPlayerDying;
     }
 
     private void InitBars()
@@ -23,4 +26,17 @@ public class GameRoot : MonoBehaviour
             bar.Init();
         }
     }
+
+    private void OnPlayerDying()
+    {
+        ShowRestartButton();
+
+        _player.Dying -= OnPlayerDying;
+    }
+
+    private void ShowRestartButton()
+    {
+        restartButton.gameObject.SetActive(true);
+    }
+
 }
